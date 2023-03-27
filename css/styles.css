@@ -359,4 +359,9 @@ footer span {
         padding-left: 0px;
         text-align: center;
     }
+    
+    .second-part p{
+        font-size: 1rem;
+    }
+}
 }
