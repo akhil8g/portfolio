@@ -1,5 +1,5 @@
 # portfolio
-
+check it out here https://akhil8g.github.io/portfolio/
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/0d68dee1-6734-4f61-8e15-a323509727fa">
 
 Mobile view
