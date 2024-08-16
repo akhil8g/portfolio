@@ -12,4 +12,7 @@ Mobile view
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/580d35f5-700f-4982-89ad-5bd5cd6ecf3c">
 
 
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/88001350-614f-42db-82b8-b42bdb9d81cd">
+
+
 
